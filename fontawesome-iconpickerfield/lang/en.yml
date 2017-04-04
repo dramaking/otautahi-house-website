@@ -1,0 +1,3 @@
+en:
+  FontAwesomeIconPickerField:
+    VALIDFONT: 'Please enter a valid Font Awesome font name format.'
